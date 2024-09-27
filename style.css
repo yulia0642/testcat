@@ -1,0 +1,20 @@
+.lw { font-size: 60px; }
+.centred { position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);}
+.test1 {text-align: right; }    
+
+
+.tint{opacity: 40%;
+ position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);}
+
+input.test1:focus {
+background-color: orange; 
+}
+input.test2:focus {
+background-color: khaki; 
+}
